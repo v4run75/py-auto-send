@@ -1,4 +1,6 @@
 ## py-auto-send
+### This project is no longer valid and supported. This can be used for inspiration but the libraries and code in this repository is outdated.
+
 These python scripts are intended to automatically send out templated messages on whatsapp web and gmail using the provided microsoft excel file. 
 This projects selenium broswer automation
 
